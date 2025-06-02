@@ -1,6 +1,6 @@
 #__Alunos Responsáveis__
-- Kauan Garcia Pereira Martins - 2021026595
-- Diego Silva Martins - 2020020050
+- Kauan Garcia Pereira Martins - 2021026595 (git: kauangarccia)
+- Diego Silva Martins - 2020020050 (git: DiegoFSX22)
 
 #__Construindo Interpretadores__
 
