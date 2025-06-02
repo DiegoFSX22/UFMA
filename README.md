@@ -25,5 +25,6 @@ Desenvolver componentes que possam ser testados e aprimorados individualmente, p
 Demonstrar a aplicação das linguagens regulares na identificação e validação de padrões presentes no código.
 
 #__Considerações Finais__
+
 Este projeto é resultado de um trabalho colaborativo que visa aprofundar os conhecimentos sobre a construção de interpretadores e a análise léxica. Espera-se que, com a implementação dos conceitos abordados, seja possível compreender e expandir os fundamentos necessários para a criação de linguagens de programação e suas ferramentas associadas.
 
